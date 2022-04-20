@@ -15,7 +15,7 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "540B21D845EECEB20F4A63FDAEA89C1D"
-               BuildableName = "Pods-AuthKitCocoapod.framework"
+               BuildableName = "Pods_AuthKitCocoapod.framework"
                BlueprintName = "Pods-AuthKitCocoapod"
                ReferencedContainer = "container:Pods.xcodeproj">
             </BuildableReference>

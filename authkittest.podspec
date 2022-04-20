@@ -10,7 +10,7 @@ Pod::Spec.new do |s|
 
   # ―――  Spec Metadata  ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
   s.name         = 'authkittest'
-  s.version      = '0.0.0'
+  s.version      = '0.0.1'
   s.summary      = 'AuthKit as cocoapod'
   s.swift_version    = "5"
 
@@ -26,7 +26,7 @@ Provides cross-platform payments and gift cards functionality for client applica
 
   s.ios.deployment_target = '14.0'
 
-  s.source_files     = 'authkittest/AuthKitCocoapod/AuthKitCocoapod/**/*'
+  s.source_files     = 'AuthKitCocoapod/AuthKitCocoapod/**/*'
 
   s.dependency      'Auth0',              '2.0.0'
   s.dependency      'SimpleKeychain',     '0.12.5' 
