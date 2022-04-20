@@ -1,0 +1,6 @@
+framework module Pods_AuthKitCocoapod_AuthKitCocoapodTests {
+  umbrella header "Pods-AuthKitCocoapod-AuthKitCocoapodTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
