@@ -6,7 +6,7 @@
 //
 
 import Foundation
-import AuthKitTypes
+//import AuthKitTypes
 import struct Auth0.CredentialsManager
 
 struct AuthManager: AuthManagerProvider {

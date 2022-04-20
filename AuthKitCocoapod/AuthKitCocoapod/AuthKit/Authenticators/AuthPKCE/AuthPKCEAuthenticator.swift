@@ -6,7 +6,7 @@
 //
 
 import Foundation
-import AuthKitTypes
+//import AuthKitTypes
 
 struct AuthPKCEAuthenticator {
     let apiManager = APIManager()

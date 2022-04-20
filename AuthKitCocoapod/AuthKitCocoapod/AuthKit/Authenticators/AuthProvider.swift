@@ -6,7 +6,7 @@
 //
 
 import Foundation
-import AuthKitTypes
+//import AuthKitTypes
 
 protocol AuthProvider {
     var isAuthenticated: Bool { get throws }

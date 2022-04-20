@@ -7,7 +7,7 @@
 
 import Foundation
 import Auth0
-import AuthKitTypes
+//import AuthKitTypes
 
 struct Auth0Authenticator {
     

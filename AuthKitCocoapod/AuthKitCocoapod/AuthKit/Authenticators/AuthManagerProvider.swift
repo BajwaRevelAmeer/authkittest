@@ -5,7 +5,7 @@
 //  Created by Revel on 2022-03-31.
 //
 
-import AuthKitTypes
+//import AuthKitTypes
 
 protocol AuthManagerProvider {
     func isAuthenticated(using type: AuthenticationType) throws -> Bool

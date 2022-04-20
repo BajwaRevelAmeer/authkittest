@@ -6,7 +6,7 @@
 //
 
 import Foundation
-import AuthKitTypes
+//import AuthKitTypes
 import Auth0
 
 actor ServiceFactory: ServiceFactoryProvider {
